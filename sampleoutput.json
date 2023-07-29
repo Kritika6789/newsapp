@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "India.com"
+    },
+    "author": "Zee Media Bureau",
+    "title": "SL: 60-0 (15) | SL VS PAK 2nd Test, Day 4 LIVE Cricket Score And Updates: Nishan Madushka Smashes 1s - Zee News",
+    "description": "SL: 81-1 (25) | SL VS PAK 2nd Test, Day 4 LIVE Cricket Score And Updates: Dimuth Karunaratne, Kusal",
+    "url": "https://zeenews.india.com/cricket/live-updates/live-cricket-score-sl-vs-pak-2nd-test-day-4-cricket-match-2023-today-sri-lanka-vs-pakistan-cricket-live-score-updates-sinhalese-sports-club-colombo-dimuth-karunaratne-babar-azam-shaheen-afridi-2640517",
+    "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/07/27/1249965-slpakday4.jpg",
+    "publishedAt": "2023-07-27T05:52:50Z",
+    "content": "Pakistan are in a dominant position on Day 4 of the 2nd Test against Sri Lanka at the Sinhalese Sport Club ground in Colombo. Thanks to double century by Abdullah Shafique and a century by Agha Salma… [+658 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Pics From Gadar 2 Trailer Launch: Ameesha Patel And Sunny Deol Came Dressed As Sakeena And Tara Singh - NDTV Movies",
+    "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+    "url": "https://www.ndtv.com/news",
+    "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+    "publishedAt": "2023-07-27T04:28:07Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "TIMESOFINDIA.COM",
+    "title": "Watch: Rohit Sharma on the importance of West Indies ODI series - IndiaTimes",
+    "description": "Cricket News: After winning the two-Test series 1-0, India gear up to face the West Indies in a three-match ODI series starting with the first match at Kensington O",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-west-indies/watch-rohit-sharma-on-the-importance-of-west-indies-odi-series/articleshow/102154767.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-102154654,width-1070,height-580,imgsize-62602,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2023-07-27T02:50:00Z",
+    "content": null
+    }
+    ]
+    }
