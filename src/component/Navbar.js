@@ -1,7 +1,10 @@
-import React, { Component } from 'react'
+import React  from 'react'
 import {Link} from "react-router-dom";
-export class Navbar extends Component {
-  render() {
+// import News from './News';
+// import NewItem from './NewItem';
+// import News from './News';
+const Navbar=()=>{
+
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -15,9 +18,7 @@ export class Navbar extends Component {
       <li className="nav-item active">
         <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
       </li>
-      <li className="nav-item">
-        <Link className="nav-link" to="/">About</Link>
-      </li>
+      
       <li><Link className="nav-link" to="/business">Business</Link></li>
     <li><Link className="nav-link" to="/entertainment">Entertainment</Link></li>
       <li><Link className="nav-link" to="/general">General</Link></li>
@@ -38,13 +39,14 @@ export class Navbar extends Component {
     </ul>
     <form className="form-inline my-2 my-lg-0">
       <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
-      <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      <button className="btn btn-outline-success my-2 my-sm-0" type="submit" >Search</button>
+
     </form>
   </div>
 </nav>
       </div>
     )
-  }
+  
 }
 
 export default Navbar
